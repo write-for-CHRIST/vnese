@@ -1,9 +1,3 @@
-var sum = function(a, b) {
-    var result = a + b;
-    return result;
-}
+const UNICODE_TABLE = require('./unicode')
 
-var tong = sum(1, 5)
-console.log('tong la: ', tong)
-
-module.exports = sum
+module.exports = () => {}
