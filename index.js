@@ -1,3 +1,3 @@
-const UNICODE_TABLE = require('./unicode')
+const convert = require('./convert')
 
-module.exports = () => {}
+module.exports = convert
