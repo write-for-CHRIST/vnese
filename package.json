@@ -1,0 +1,27 @@
+{
+  "name": "vnese",
+  "version": "0.0.1",
+  "description": "A useful Javascript library for converting characters of Vietnamese in different types.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/write-for-CHRIST/vnese.git"
+  },
+  "keywords": [
+    "convert",
+    "vietnam",
+    "character",
+    "unicode",
+    "vni",
+    "tcvn3"
+  ],
+  "author": "Lan Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/write-for-CHRIST/vnese/issues"
+  },
+  "homepage": "https://github.com/write-for-CHRIST/vnese#readme"
+}
